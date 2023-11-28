@@ -43,3 +43,8 @@ Use task management tools, such as Trello or Asana, to keep track of your tasks 
 
 # 2023-11-27
 - "Keep it simple, stupid!"
+
+# 2023-11-28
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
+
+This quote highlights the importance of creating user-friendly and intuitive software, as well as the ongoing challenge developers face in anticipating and accounting for potential user errors. It also reminds us that while technology can greatly enhance our lives, it is ultimately up to us as users to use it responsibly and intelligently.
