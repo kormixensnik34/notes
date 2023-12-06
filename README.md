@@ -80,3 +80,10 @@ To stay ahead of the curve, make it a habit to read blogs, follow industry leade
 
 # 2023-12-05
 - "Keep it simple, stupid!"
+
+# 2023-12-06
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This will not only make you a more valuable employee but also help you become a better problem-solver and collaborator.
+
+To stay ahead of the curve, make it a habit to read blogs, subscribe to industry newsletters, and attend conferences and workshops. By doing this, you' ll be exposed to the newest programming techniques, tools, languages, frameworks, libraries, etc. 
+ 此外，学会与团队合作和沟通也是至关重要的。在编程中，很少有任务可以独自完成，因此学会与他人分享知识、解决问题并共同实现目标是非常重要的。
+ 最后，保持耐心和毅力。学习编程可能会很困难，但请记住，每个人都是从基础开始，通过不断学习和实践来提高自己。不要害怕犯错误，因为错误是学习过程的一部分。从错误中吸取教训，不断调整和改进，最终你会成为一名成功的程序员。
