@@ -87,3 +87,8 @@ To stay ahead of the curve, make it a habit to read blogs, follow industry leade
 To stay ahead of the curve, make it a habit to read blogs, subscribe to industry newsletters, and attend conferences and workshops. By doing this, you' ll be exposed to the newest programming techniques, tools, languages, frameworks, libraries, etc. 
  此外，学会与团队合作和沟通也是至关重要的。在编程中，很少有任务可以独自完成，因此学会与他人分享知识、解决问题并共同实现目标是非常重要的。
  最后，保持耐心和毅力。学习编程可能会很困难，但请记住，每个人都是从基础开始，通过不断学习和实践来提高自己。不要害怕犯错误，因为错误是学习过程的一部分。从错误中吸取教训，不断调整和改进，最终你会成为一名成功的程序员。
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potentially worse performance. It's better to write clear, simple code first and optimize only when profiling identifies specific bottlenecks.
