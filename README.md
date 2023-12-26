@@ -173,3 +173,9 @@ To stay current, make it a habit to read blogs, follow industry leaders, and att
 
 # 2023-12-25
 - "Keep it simple, stupid!"
+
+# 2023-12-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method to help prioritize: Must have, Should have , Could have and Won't have. Must-have tasks should be completed first to ensure the basic functionality of a product or project is met. Should-haves are nice-to- have features that add value to a solution but don' t impact the core functionality. Could-has and won'ts are tasks that can be done later or not done at all without harming the overall project success. 
+Next, planning ahead is crucial. Before starting a new project or a task, take some time to plan out your approach. Write down the steps you plan to take and the resources you will need. Then, map out a timeline for each step and set deadlines for yourself. Planning ahead will ensure you have a clear understanding of what needs to get done and when it needs t o be complete. It will also help prevent last-minute panic and stress.
