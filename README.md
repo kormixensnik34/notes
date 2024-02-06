@@ -372,3 +372,8 @@ This quote emphasizes the importance of not overcomplicating code or prematurely
 
 Translation: 
 "简单是最终的复杂。在软件开发中，应始终努力编写简洁、易读且易于维护的代码。谨记，代码被阅读的频率远高于编写的频率。投入时间进行模块化设计，采用清晰一致的命名规范，并有效注释。优先考虑可理解和灵活性而非过早优化。最重要的是，接纳重构和持续改进这一迭代过程。”
+
+# 2024-02-06
+- Today's programming wisdom: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that focusing on optimizing code before fully understanding requirements and bottlenecks can lead to unnecessary complexity, harder maintenance, and potentially worse performance overall. Always ensure you understand the problem domain thoroughly and measure before making optimizations. It encapsulates the idea that clear, readable, and maintainable code often trumps micro-optimizations until they're truly needed. 
+
+In essence, make it work first, make it right second, and only then, make it fast.
